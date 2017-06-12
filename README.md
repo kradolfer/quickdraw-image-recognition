@@ -20,6 +20,8 @@ Random Forest: 92.7%
 
 Convolutional Neural Network: 90.4%
 
+K-Nearest Neighbors: 82.4%
+
 Multi-Layer Perceptron: 81.2%
 
 Random Forest: 79.1%
