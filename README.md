@@ -1,5 +1,5 @@
 # quickdraw-image-recognition
-Comparing different machine learning algorithms to classify drawings made in the game 'Quick, draw!'.
+Comparing different machine learning algorithms in Python to classify drawings made in the game 'Quick, draw!'.
 
 ### Results:
 
