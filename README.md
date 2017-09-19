@@ -6,7 +6,7 @@ Comparing different machine learning algorithms to classify drawings made in the
 #### Classification accuracy for 2 classes (15'000 training examples):
 
 
-Convolutional Neural Network: 96.1%
+Convolutional Neural Network: 96.4%
 
 K-Nearest Neighbors: 93.6%
 
@@ -18,7 +18,7 @@ Random Forest: 92.7%
 #### Classification accuracy for 5 classes (12'500 training examples):
 
 
-Convolutional Neural Network: 90.4%
+Convolutional Neural Network: 90.3%
 
 K-Nearest Neighbors: 82.4%
 
